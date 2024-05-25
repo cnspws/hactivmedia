@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "username": "alice_wonder",
+    "email": "alice.wonder@gmail.com",
+    "password": "B1u3Sky123",
+    "role": "User"
+  },
+  {
+    "id": 2,
+    "username": "bob_builder",
+    "email": "bob.builder@yahoo.com",
+    "password": "Gr33nLeaf456",
+    "role": "User"
+  },
+  {
+    "id": 3,
+    "username": "charlie_chap",
+    "email": "charlie_chap@hotmail.com",
+    "password": "R3dSunset789",
+    "role": "Admin"
+  },
+  {
+    "id": 4,
+    "username": "diana_prince",
+    "email": "diana.prince@outlook.com",
+    "password": "Y3llowMoon321",
+    "role": "User"
+  },
+  {
+    "id": 5,
+    "username": "edward_hands",
+    "email": "edward.hands@gmail.com",
+    "password": "VioletStar654",
+    "role": "User"
+  },
+  {
+    "id": 6,
+    "username": "fiona_fair",
+    "email": "fiona.fair@yahoo.com",
+    "password": "Orang3Tree987",
+    "role": "Admin"
+  },
+  {
+    "id": 7,
+    "username": "george_curious",
+    "email": "george.curious@hotmail.com",
+    "password": "Silv3rCloud258",
+    "role": "User"
+  },
+  {
+    "id": 8,
+    "username": "harry_potter",
+    "email": "harry.potter@gmail.com",
+    "password": "GoldRiv3r369",
+    "role": "User"
+  },
+  {
+    "id": 9,
+    "username": "bella_swann",
+    "email": "bella.swann@yahoo.com",
+    "password": "CrysTalLake852",
+    "role": "User"
+  },
+  {
+    "id": 10,
+    "username": "jack_sparrow",
+    "email": "jack.sparrow@outlook.com",
+    "password": "DiamondDust147",
+    "role": "User"
+  }
+]

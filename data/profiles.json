@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Wonder",
+    "bio": "I'm a curious soul wandering in wonderland.",
+    "userId": 1
+  },
+  {
+    "id": 2,
+    "name": "Bob Builder",
+    "bio": "Building dreams one brick at a time.",
+    "userId": 2
+  },
+  {
+    "id": 3,
+    "name": "Charlie Chap",
+    "bio": "A silent comedian with a heart of gold.",
+    "userId": 3
+  },
+  {
+    "id": 4,
+    "name": "Diana Prince",
+    "bio": "Balancing life as a warrior and a diplomat.",
+    "userId": 4
+  },
+  {
+    "id": 5,
+    "name": "Edward Hands",
+    "bio": "A gentle touch can mend even the deepest wounds.",
+    "userId": 5
+  },
+  {
+    "id": 6,
+    "name": "Fiona Fair",
+    "bio": "Fairies do exist, and I'm one of them.",
+    "userId": 6
+  },
+  {
+    "id": 7,
+    "name": "George Curious",
+    "bio": "Unraveling mysteries one question at a time.",
+    "userId": 7
+  },
+  {
+    "id": 8,
+    "name": "Harry Potter",
+    "bio": "Bravery, friendship, and a touch of magic.",
+    "userId": 8
+  },
+  {
+    "id": 9,
+    "name": "Bella Swann",
+    "bio": "Embracing both light and darkness within.",
+    "userId": 9
+  },
+  {
+    "id": 10,
+    "name": "Jack Sparrow",
+    "bio": "A pirate's life for me, with a hint of adventure.",
+    "userId": 10
+  }
+]
